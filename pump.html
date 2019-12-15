@@ -1,0 +1,45 @@
+<!DOCTYPE HTML>
+<html>
+
+<body>
+
+<script>
+
+window.document.onload = function(e) {
+	goToUrl();
+}
+window.onload = function(e) {
+	goToUrl();
+}
+
+/* goes to the excerciseCalendar url corresponding with the day of the week */
+function goToUrl() {
+	let date = new Date();
+	let day = getDayOfWeek(date);
+	window.location.replace("https://dallen72.github.io/AutoPump/" + day);
+}
+
+/* takes a  date and returns the day of the week */
+function getDayOfWeek(date) {
+	const DAYS_OF_WEEK = {
+		0: 'sunday',
+		1: 'monday',
+		2: 'tuesday',
+		3: 'wednesday',
+		4: 'thursday',
+		5: 'friday',
+		6: 'saturday'
+	}
+
+	let day = date.getDay();
+	let dayOfWeek = DAYS_OF_WEEK[day];
+
+	return dayOfWeek;
+}
+		
+
+</script>
+
+</body>
+
+</html>
