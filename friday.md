@@ -1,16 +1,4 @@
-## Squats,
-## HB Deadlifts,
-## Rows and
-## Bench.
-## Cardio Day.
-
-## Core Excercises
-
-* Roller
-* Suitcase Deadlift
-* Half Kneeling Chop
-* Dumbell Push-up Rows
-
+ 
 ## Stretches
 
 * Calf Stretch
@@ -38,3 +26,16 @@
 * Crab Reach
 * Lying Hug stretch
 * Side Lunge Stretch
+
+## Squats,
+## HB Deadlifts,
+## Pullovers and Rows and
+## Bench.
+## Cardio Day.
+
+## Core
+
+* Roller
+* Suitcase Deadlift
+* Half Kneeling Chop
+* Dumbell Push-up Rows

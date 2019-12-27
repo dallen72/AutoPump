@@ -1,16 +1,4 @@
-## Squats,
-## HB Deadlifts,
-## Rows and
-## Bench.
-## Chest day.
-
-## Core Excercises
-
-* Hanging Leg Raise
-* Pike to Superman
-* Medicine Ball V-Up
-* Medicine Ball Mountain Climber
-
+ 
 ## Stretches
 
 * Calf Stretch
@@ -38,3 +26,16 @@
 * Crab Reach
 * Lying Hug stretch
 * Side Lunge Stretch
+
+## Squats,
+## HB Deadlifts,
+## Pullovers and Rows and
+## Bench.
+## Chest Day.
+
+## Core
+
+* Hanging Leg Raise
+* Pike to Superman
+* Medicine Ball V-Up
+* Medicine Ball Mountain Climber

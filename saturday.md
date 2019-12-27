@@ -1,16 +1,4 @@
-## Squats,
-## HB Deadlifts,
-## Rows and
-## Bench.
-## Arms and Shoulder day.
-
-## Core Excercises
-
-* Dragon Flags
-* Sitting Russian Twist
-* Frog Kicks
-* Sit-ups
-
+ 
 ## Stretches
 
 * Calf Stretch
@@ -38,3 +26,16 @@
 * Crab Reach
 * Lying Hug stretch
 * Side Lunge Stretch
+
+## Squats,
+## HB Deadlifts,
+## Pullovers and Rows and
+## Bench.
+## Arms and Shoulder day.
+
+## Core Excercises
+
+* Dragon Flags
+* Sitting Russian Twist
+* Frog Kicks
+* Sit-ups

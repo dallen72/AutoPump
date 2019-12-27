@@ -1,14 +1,3 @@
-## Squats,
-## HB Deadlifts,
-## Rows and
-## Bench.
-## Hamstring Day.
-
-## Core
-
-* Dead Bug
-* Paloff Press with Rotation
-* Side Plank
  
 ## Stretches
 
@@ -37,3 +26,16 @@
 * Crab Reach
 * Lying Hug stretch
 * Side Lunge Stretch
+
+## Squats,
+## HB Deadlifts,
+## Pullovers and Rows and
+## Bench.
+## Hamstring Day.
+
+## Core
+
+* Dead Bug
+* Paloff Press with Rotation
+* Side Plank
+* Ab Cable Pulldowns
