@@ -14,7 +14,7 @@ with open('progressionChart.csv') as csv_file:
             line_count += 1
         else:
             for i in range(len(excercises)):
-                print(excercises[i] + ": " + row[i])
+                print('* ' + excercises[i] + ": " + row[i])
             line_count += 1
         f.close()
 
