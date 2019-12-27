@@ -1,3 +1,6 @@
-Dead Bug, then Up Dog Pose
-
-[test  page](https://dallen72.github.io/AutoPump/testPage.html)
+[Go to Saturday's Workout](https://dallen72.github.io/AutoPump/saturday.html)
+[Go to Monday's Workout](https://dallen72.github.io/AutoPump/monday.html)
+[Go to Tuesday's Workout](https://dallen72.github.io/AutoPump/tuesday.html)
+[Go to Wednesday's Workout](https://dallen72.github.io/AutoPump/wednesday.html)
+[Go to Thursday's Workout](https://dallen72.github.io/AutoPump/thursday.html)
+[Go to Friday's Workout](https://dallen72.github.io/AutoPump/friday.html)
