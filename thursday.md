@@ -27,15 +27,16 @@
 * Lying Hug stretch
 * Side Lunge Stretch
 
-## Squats,
-## HB Deadlifts,
-## Pullovers and Rows and
-## Bench.
-## Chest Day.
-
 ## Core
 
-* Hanging Leg Raise
+* Hanging Leg Raise with medicine ball between feet
 * Pike to Superman
 * Medicine Ball V-Up
 * Medicine Ball Mountain Climber
+
+## Side Lunge with weight
+## One-Legged Squats,
+## Squats,
+## HB Deadlifts,
+## Rows, Bench
+## Chest Day.

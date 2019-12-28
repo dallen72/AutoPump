@@ -27,15 +27,17 @@
 * Lying Hug stretch
 * Side Lunge Stretch
 
-## Squats,
-## HB Deadlifts,
-## Pullovers and Rows and
-## Bench.
-## Cardio Day.
-
 ## Core
 
 * Roller
 * Suitcase Deadlift
 * Half Kneeling Chop
 * Dumbell Push-up Rows
+
+## Side Lunge with weight
+## One-Legged Squats,
+## Squats,
+## HB Deadlifts,
+## Pullovers, pullups, pushups
+## Cardio Day.
+

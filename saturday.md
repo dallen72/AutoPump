@@ -27,15 +27,17 @@
 * Lying Hug stretch
 * Side Lunge Stretch
 
-## Squats,
-## HB Deadlifts,
-## Pullovers and Rows and
-## Bench.
-## Arms and Shoulder day.
-
 ## Core Excercises
 
-* Dragon Flags
+* Dragon Flags with medicine ball betwween feet
 * Sitting Russian Twist
 * Frog Kicks
 * Sit-ups
+
+## Side Lunge with weight
+## One-Legged Squats,
+## Barbell Squats,
+## HB Deadlifts,
+## Rows, Bench
+## Arms and Shoulder day.
+

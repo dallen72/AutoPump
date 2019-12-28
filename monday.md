@@ -27,15 +27,17 @@
 * Lying Hug stretch
 * Side Lunge Stretch
 
-## Squats,
-## HB Deadlifts,
-## Pullovers and Rows and
-## Bench.
-## Hamstring Day.
-
 ## Core
 
 * Dead Bug
 * Paloff Press with Rotation
-* Side Plank
+* Side Plank, feet on bench
 * Ab Cable Pulldowns
+
+## Side Lunge with weight
+## One-Legged Squats,
+## Squats,
+## HB Deadlifts,
+## Pullovers, pullups, pushups
+## Hamstring Day.
+
